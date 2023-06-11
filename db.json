@@ -1,0 +1,145 @@
+{
+  "courseData": [
+    {
+      "id": 0,
+      "courseId": 0,
+      "courseName": "Java Crash Course",
+      "courseDescription": "This course is designed for ICSE/ISC, CBSE, JAC students.",
+      "courseMentor": [
+        "Pawan Sharma"
+      ],
+      "coursePrice": "Paid",
+      "courseType": "Full Course",
+      "courseCategory": "programming-language",
+      "courseRating": 5,
+      "numberOfRating": 16,
+      "courseFee": 3999,
+      "courseDiscountFee": 1999,
+      "courseLevel": "Beginner",
+      "totalStudentEnrolled": 1000,
+      "dateOfLaunch": "31-05-2003",
+      "lastUpdateDate": "31-05-2023",
+      "courseValidity": "1 month",
+      "courseImageLink": "https://via.placeholder.com/600/92c952",
+      "courseDuration": [
+        11,
+        10,
+        20
+      ],
+      "learnings": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?"
+      ],
+      "materials": [
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet."
+      ],
+      "requirements": [
+        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet."
+      ],
+      "audience": [
+        "The student who is targeting their boards(class 10) exam can checkout this course.",
+        "The student who is targeting their boards(class 10) exam can checkout this course.",
+        "The student who is targeting their boards(class 10) exam can checkout this course.",
+        "The student who is targeting their boards(class 10) exam can checkout this course.",
+        "The student who is targeting their boards(class 10) exam can checkout this course."
+      ]
+    },
+    {
+      "id": 1,
+      "courseId": 1,
+      "courseName": "Complete Java Course",
+      "courseDescription": "This course is designed for ICSE/ISC, CBSE, JAC students.",
+      "courseMentor": [
+        "Barun Tiwary"
+      ],
+      "coursePrice": "Paid",
+      "courseType": "Full Course",
+      "courseCategory": "programming-language",
+      "courseRating": 4.5,
+      "numberOfRating": 10,
+      "courseFee": 2999,
+      "courseDiscountFee": 999,
+      "courseLevel": "Beginner",
+      "totalStudentEnrolled": 512,
+      "dateOfLaunch": "31-05-2003",
+      "lastUpdateDate": "31-05-2023",
+      "courseValidity": "lifetime",
+      "courseImageLink": "https://via.placeholder.com/600/92c952",
+      "courseDuration": [
+        11,
+        10,
+        20
+      ],
+      "learnings": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?"
+      ],
+      "materials": [
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet."
+      ],
+      "requirements": [
+        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet."
+      ],
+      "audience": [
+        "The student who is targeting their boards(class 10) exam can checkout this course.",
+        "The student who is targeting their boards(class 10) exam can checkout this course.",
+        "The student who is targeting their boards(class 10) exam can checkout this course.",
+        "The student who is targeting their boards(class 10) exam can checkout this course.",
+        "The student who is targeting their boards(class 10) exam can checkout this course."
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "userId": 512,
+      "userName": "Barun_Tiwary",
+      "password": "12345",
+      "userType": "Admin"
+    },
+    {
+      "id": 1,
+      "userId": 513,
+      "userName": "Pawan_Sharma",
+      "password": "12345",
+      "userType": "Student"
+    }
+  ]
+}
