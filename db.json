@@ -27,43 +27,222 @@
         10,
         20
       ],
-      "learnings": [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?"
+      "courseDetail": [
+        {
+          "learnings": [
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?"
+          ]
+        },
+        {
+          "materials": [
+            "Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet."
+          ]
+        },
+        {
+          "requirements": [
+            "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+            "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet."
+          ]
+        },
+        {
+          "audience": [
+            "The student who is targeting their boards(class 10) exam can checkout this course.",
+            "The student who is targeting their boards(class 10) exam can checkout this course.",
+            "The student who is targeting their boards(class 10) exam can checkout this course.",
+            "The student who is targeting their boards(class 10) exam can checkout this course.",
+            "The student who is targeting their boards(class 10) exam can checkout this course.",
+            "The student who is targeting their boards(class 10) exam can checkout this course.",
+            "The student who is targeting their boards(class 10) exam can checkout this course.",
+            "The student who is targeting their boards(class 10) exam can checkout this course.",
+            "The student who is targeting their boards(class 10) exam can checkout this course."
+          ]
+        }
       ],
-      "materials": [
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet."
-      ],
-      "requirements": [
-        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet."
-      ],
-      "audience": [
-        "The student who is targeting their boards(class 10) exam can checkout this course.",
-        "The student who is targeting their boards(class 10) exam can checkout this course.",
-        "The student who is targeting their boards(class 10) exam can checkout this course.",
-        "The student who is targeting their boards(class 10) exam can checkout this course.",
-        "The student who is targeting their boards(class 10) exam can checkout this course."
+      "courseLecture": [
+        {
+          "content": [
+            {
+              "videos": [
+                {
+                  "title": "Lecture 1 : Introduction to Programming Language",
+                  "link": "https://www.youtube.com/embed/soqL9XgoRqc"
+                },
+                {
+                  "title": "Lecture 2 : What is Object and Classes",
+                  "link": "https://www.youtube.com/embed/lfTxjRagBnw"
+                },
+                {
+                  "title": "Lecture 3 Part 1 : Introduction to Programming Language",
+                  "link": "https://www.youtube.com/embed/hcPN4SVBqYw"
+                },
+                {
+                  "title": "Lecture 3 Part 2 : Tokens and Basic Syntax of Java",
+                  "link": "https://www.youtube.com/embed/xukigQKCCEM"
+                },
+                {
+                  "title": "Lecture 3 Part 3 : Tokens and Basic Syntax of Java",
+                  "link": "https://www.youtube.com/embed/GitMDQeVe_4"
+                },
+                {
+                  "title": "Lecture 4 : Questions on Unary Operator",
+                  "link": "https://www.youtube.com/embed/uvl3y7Q0zWM"
+                },
+                {
+                  "title": "Lecture 5 : Short hand on Unary Operator with Qustions",
+                  "link": "https://www.youtube.com/embed/Oe37BbPQBhI"
+                },
+                {
+                  "title": "Lecture 1 : Introduction to Programming Language",
+                  "link": "https://www.youtube.com/embed/soqL9XgoRqc"
+                },
+                {
+                  "title": "Lecture 2 : What is Object and Classes",
+                  "link": "https://www.youtube.com/embed/lfTxjRagBnw"
+                },
+                {
+                  "title": "Lecture 3 Part 1 : Introduction to Programming Language",
+                  "link": "https://www.youtube.com/embed/hcPN4SVBqYw"
+                },
+                {
+                  "title": "Lecture 3 Part 2 : Tokens and Basic Syntax of Java",
+                  "link": "https://www.youtube.com/embed/xukigQKCCEM"
+                },
+                {
+                  "title": "Lecture 3 Part 3 : Tokens and Basic Syntax of Java",
+                  "link": "https://www.youtube.com/embed/GitMDQeVe_4"
+                },
+                {
+                  "title": "Lecture 4 : Questions on Unary Operator",
+                  "link": "https://www.youtube.com/embed/uvl3y7Q0zWM"
+                },
+                {
+                  "title": "Lecture 5 : Short hand on Unary Operator with Qustions",
+                  "link": "https://www.youtube.com/embed/Oe37BbPQBhI"
+                }
+              ]
+            },
+            {
+              "pdfs": []
+            },
+            {
+              "notes": [
+                {
+                  "id": 0,
+                  "note": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti cumque eos consequuntur nemo sapiente dolorem ullam consectetur provident? Beatae aliquam eos minus id inventore non laudantium perferendis quaerat eligendi nulla? Recusandae mollitia similique rem distinctio doloribus veritatis odit, commodi ducimus reiciendis ad. Eos voluptatem possimus aspernatur harum beatae incidunt exercitationem nobis et ex dignissimos reiciendis, autem omnis quod vitae cumque placeat distinctio natus esse. Ullam temporibus facere eos magni modi amet totam quidem blanditiis dignissimos iusto laudantium corporis quod nulla labore eum nam facilis deserunt aliquam sed distinctio officia, eaque earum. Ipsa reprehenderit itaque doloremque sed assumenda eos dolor cum."
+                },
+                {
+                  "id": 1,
+                  "note": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti cumque eos consequuntur nemo sapiente dolorem ullam consectetur provident? Beatae aliquam eos minus id inventore non laudantium perferendis quaerat eligendi nulla? Recusandae mollitia similique rem distinctio doloribus veritatis odit, commodi ducimus reiciendis ad. Eos voluptatem possimus aspernatur harum beatae incidunt exercitationem nobis et ex dignissimos reiciendis, autem omnis quod vitae cumque placeat distinctio natus esse. Ullam temporibus facere eos magni modi amet totam quidem blanditiis dignissimos iusto laudantium corporis quod nulla labore eum nam facilis deserunt aliquam sed distinctio officia, eaque earum. Ipsa reprehenderit itaque doloremque sed assumenda eos dolor cum."
+                },
+                {
+                  "id": 2,
+                  "note": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti cumque eos consequuntur nemo sapiente dolorem ullam consectetur provident? Beatae aliquam eos minus id inventore non laudantium perferendis quaerat eligendi nulla? Recusandae mollitia similique rem distinctio doloribus veritatis odit, commodi ducimus reiciendis ad. Eos voluptatem possimus aspernatur harum beatae incidunt exercitationem nobis et ex dignissimos reiciendis, autem omnis quod vitae cumque placeat distinctio natus esse. Ullam temporibus facere eos magni modi amet totam quidem blanditiis dignissimos iusto laudantium corporis quod nulla labore eum nam facilis deserunt aliquam sed distinctio officia, eaque earum. Ipsa reprehenderit itaque doloremque sed assumenda eos dolor cum."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "resources": [
+            {
+              "dpp": [
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": true,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": false,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": true,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": false,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": true,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": false,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": false,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": true,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": true,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": false,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": false,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                }
+              ]
+            },
+            {
+              "qna": []
+            },
+            {
+              "solution": []
+            }
+          ]
+        }
       ]
     },
     {
       "id": 1,
       "courseId": 1,
-      "courseName": "Complete Java Course",
+      "courseName": "Java Complete Course",
       "courseDescription": "This course is designed for ICSE/ISC, CBSE, JAC students.",
       "courseMentor": [
         "Barun Tiwary"
@@ -72,76 +251,273 @@
       "courseType": "Full Course",
       "courseCategory": "programming-language",
       "courseBookMark": false,
-      "courseRating": 4.5,
-      "numberOfRating": 10,
-      "courseFee": 2999,
+      "courseRating": 5,
+      "numberOfRating": 16,
+      "courseFee": 1999,
       "courseDiscountFee": 999,
       "courseLevel": "Beginner",
-      "totalStudentEnrolled": 512,
+      "totalStudentEnrolled": 100000,
       "dateOfLaunch": "31-05-2003",
-      "lastUpdateDate": "31-05-2023",
-      "courseValidity": "lifetime",
+      "lastUpdateDate": "31-12-2023",
+      "courseValidity": "3 month",
       "courseImageLink": "https://via.placeholder.com/600/92c952",
-      "courseDuration": [
-        11,
-        10,
-        20
+      "courseDuration": [],
+      "courseDetail": [
+        {
+          "learnings": [
+            "Fundamental of Programming Language",
+            "Introduction to Java Programming Language"
+          ]
+        },
+        {
+          "materials": [
+            "50+ video lectures",
+            "Class notes of all the classes will be avaliable",
+            "10+ pdfs",
+            "Options to take notes in the course(web app) only"
+          ]
+        },
+        {
+          "requirements": [
+            "Fundamental of Computer is only required to start this course"
+          ]
+        },
+        {
+          "audience": [
+            "The passionate student willing to learn new Techonology can also enroll to this course.",
+            "The course is intended to design for specifically the students of class 9 & 10."
+          ]
+        }
       ],
-      "learnings": [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat eaque, esse quos nobis iste corporis?"
-      ],
-      "materials": [
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet."
-      ],
-      "requirements": [
-        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
-        "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet."
-      ],
-      "audience": [
-        "The student who is targeting their boards(class 10) exam can checkout this course.",
-        "The student who is targeting their boards(class 10) exam can checkout this course.",
-        "The student who is targeting their boards(class 10) exam can checkout this course.",
-        "The student who is targeting their boards(class 10) exam can checkout this course.",
-        "The student who is targeting their boards(class 10) exam can checkout this course."
+      "courseLecture": [
+        {
+          "content": [
+            {
+              "videos": [
+                {
+                  "title": "Lecture 1 : Introduction to Programming Language",
+                  "link": "https://www.youtube.com/embed/soqL9XgoRqc"
+                },
+                {
+                  "title": "Lecture 2 : What is Object and Classes",
+                  "link": "https://www.youtube.com/embed/lfTxjRagBnw"
+                },
+                {
+                  "title": "Lecture 3 Part 1 : Introduction to Programming Language",
+                  "link": "https://www.youtube.com/embed/hcPN4SVBqYw"
+                },
+                {
+                  "title": "Lecture 3 Part 2 : Tokens and Basic Syntax of Java",
+                  "link": "https://www.youtube.com/embed/xukigQKCCEM"
+                },
+                {
+                  "title": "Lecture 3 Part 3 : Tokens and Basic Syntax of Java",
+                  "link": "https://www.youtube.com/embed/GitMDQeVe_4"
+                },
+                {
+                  "title": "Lecture 4 : Questions on Unary Operator",
+                  "link": "https://www.youtube.com/embed/uvl3y7Q0zWM"
+                },
+                {
+                  "title": "Lecture 5 : Short hand on Unary Operator with Qustions",
+                  "link": "https://www.youtube.com/embed/Oe37BbPQBhI"
+                },
+                {
+                  "title": "Lecture 1 : Introduction to Programming Language",
+                  "link": "https://www.youtube.com/embed/soqL9XgoRqc"
+                },
+                {
+                  "title": "Lecture 2 : What is Object and Classes",
+                  "link": "https://www.youtube.com/embed/lfTxjRagBnw"
+                },
+                {
+                  "title": "Lecture 3 Part 1 : Introduction to Programming Language",
+                  "link": "https://www.youtube.com/embed/hcPN4SVBqYw"
+                },
+                {
+                  "title": "Lecture 3 Part 2 : Tokens and Basic Syntax of Java",
+                  "link": "https://www.youtube.com/embed/xukigQKCCEM"
+                },
+                {
+                  "title": "Lecture 3 Part 3 : Tokens and Basic Syntax of Java",
+                  "link": "https://www.youtube.com/embed/GitMDQeVe_4"
+                },
+                {
+                  "title": "Lecture 4 : Questions on Unary Operator",
+                  "link": "https://www.youtube.com/embed/uvl3y7Q0zWM"
+                },
+                {
+                  "title": "Lecture 5 : Short hand on Unary Operator with Qustions",
+                  "link": "https://www.youtube.com/embed/Oe37BbPQBhI"
+                }
+              ]
+            },
+            {
+              "pdfs": []
+            },
+            {
+              "notes": [
+                {
+                  "id": 0,
+                  "note": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti cumque eos consequuntur nemo sapiente dolorem ullam consectetur provident? Beatae aliquam eos minus id inventore non laudantium perferendis quaerat eligendi nulla? Recusandae mollitia similique rem distinctio doloribus veritatis odit, commodi ducimus reiciendis ad. Eos voluptatem possimus aspernatur harum beatae incidunt exercitationem nobis et ex dignissimos reiciendis, autem omnis quod vitae cumque placeat distinctio natus esse. Ullam temporibus facere eos magni modi amet totam quidem blanditiis dignissimos iusto laudantium corporis quod nulla labore eum nam facilis deserunt aliquam sed distinctio officia, eaque earum. Ipsa reprehenderit itaque doloremque sed assumenda eos dolor cum."
+                },
+                {
+                  "id": 1,
+                  "note": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti cumque eos consequuntur nemo sapiente dolorem ullam consectetur provident? Beatae aliquam eos minus id inventore non laudantium perferendis quaerat eligendi nulla? Recusandae mollitia similique rem distinctio doloribus veritatis odit, commodi ducimus reiciendis ad. Eos voluptatem possimus aspernatur harum beatae incidunt exercitationem nobis et ex dignissimos reiciendis, autem omnis quod vitae cumque placeat distinctio natus esse. Ullam temporibus facere eos magni modi amet totam quidem blanditiis dignissimos iusto laudantium corporis quod nulla labore eum nam facilis deserunt aliquam sed distinctio officia, eaque earum. Ipsa reprehenderit itaque doloremque sed assumenda eos dolor cum."
+                },
+                {
+                  "id": 2,
+                  "note": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti cumque eos consequuntur nemo sapiente dolorem ullam consectetur provident? Beatae aliquam eos minus id inventore non laudantium perferendis quaerat eligendi nulla? Recusandae mollitia similique rem distinctio doloribus veritatis odit, commodi ducimus reiciendis ad. Eos voluptatem possimus aspernatur harum beatae incidunt exercitationem nobis et ex dignissimos reiciendis, autem omnis quod vitae cumque placeat distinctio natus esse. Ullam temporibus facere eos magni modi amet totam quidem blanditiis dignissimos iusto laudantium corporis quod nulla labore eum nam facilis deserunt aliquam sed distinctio officia, eaque earum. Ipsa reprehenderit itaque doloremque sed assumenda eos dolor cum."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "resources": [
+            {
+              "dpp": [
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": true,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": false,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": true,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": false,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": true,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": false,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": false,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": true,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": true,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": false,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                },
+                {
+                  "dpp": "Dpp",
+                  "dppSolution": false,
+                  "dppLink": "dppLink",
+                  "dppSolutionLink": "dppSolutionLink"
+                }
+              ]
+            },
+            {
+              "qna": []
+            },
+            {
+              "solution": []
+            }
+          ]
+        }
       ]
     }
   ],
   "users": [
     {
       "id": 0,
-      "userId": 512,
+      "userId": 0,
       "userName": "Barun_Tiwary",
-      "password": "12345",
-      "userType": "Admin"
+      "password": "barun",
+      "phoneNumber": 1234567890,
+      "email": "xyz420@gmail.com",
+      "userType": "Admin",
+      "login": false,
+      "courses": [
+        1
+      ]
     },
     {
       "id": 1,
-      "userId": 513,
+      "userId": 1,
       "userName": "Pawan_Sharma",
-      "password": "12345",
-      "userType": "Student"
+      "password": "pawan",
+      "phoneNumber": 1234567890,
+      "email": "xyz420@gmail.com",
+      "userType": "Admin",
+      "login": false,
+      "course": [
+        0
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "userName": "Manoj_Pal",
+      "password": "manoj",
+      "phoneNumber": 1234567890,
+      "email": "xyz420@gmail.com",
+      "userType": "Student",
+      "login": false,
+      "bookMark": [],
+      "courseEnrolled": []
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "userName": "Harsh_Sharma",
+      "password": "harsh",
+      "phoneNumber": 1234567890,
+      "email": "xyz420@gmail.com",
+      "userType": "Student",
+      "login": false,
+      "bookMark": [],
+      "courseEnrolled": []
+    },
+    {
+      "id": 4,
+      "userId": 423,
+      "userName": "Barun Tiwary",
+      "email": "baruntiwary420@gmail.com",
+      "password": "barun1",
+      "phoneNumber": "",
+      "userType": "student",
+      "login": false,
+      "bookmark": [],
+      "courseEnrolled": []
     }
   ]
 }
